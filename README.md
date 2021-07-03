@@ -12,7 +12,7 @@
 ### Enjoy
 
 > * mvn clean install
-> * java - jar <i>path-to-jar</i> <i>pdf-path</i> <i>output-path</i>
+> * java - jar <<i>path-to-jar</i>> <<i>pdf-path</i>> <<i>output-path</i>>
 > * check the output path 😁😁
 
 
